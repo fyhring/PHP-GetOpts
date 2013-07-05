@@ -4,7 +4,6 @@
 
 	$argv = $_SERVER['argv'];
 	$_argv = array();
-	$file = basename(__FILE__);
 	$_argv['options'] = null;
 	$_argv['all'] = null;
 
